@@ -357,3 +357,20 @@ a:hover {
     max-width: 600px;
   }
 }
+
+/* Form */
+select {
+  color: var(--color-primary);
+}
+
+option {
+  color: black;
+}
+
+label {
+  color: var(--color-primary);
+}
+
+::placeholder {
+  color: var(--color-primary);
+}
